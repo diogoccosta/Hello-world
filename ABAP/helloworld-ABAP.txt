@@ -1,2 +1,3 @@
 REPORT first_programm.
 WRITE / 'Hello, World!'.
+WRITE / 'powered by Hacktoberfest'.
